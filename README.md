@@ -18,7 +18,7 @@ Customers typically use the bikes between the hours of 7am-9am and 5pm-7pm. This
 Displaying the trips by gender shows there is no significant difference between how the various genders use the bikes, as they are typically used beteen the hours of 7am and 9pm:
 ![TripsbyGenderperHour](https://user-images.githubusercontent.com/82347825/126872809-b04ca0e0-00ce-4436-8326-0a8d4c6f9328.png)
 
-Bike trips are mostly taken by male and female subscribers:
+No matter the day of the week, a majority of trips are taken by male subscribers:
 ![UserTripsbyGenderbyWeekday](https://user-images.githubusercontent.com/82347825/126872818-89478c5c-e896-4ff9-b24c-573e40147e8d.png)
 
 The highest volume of trips are taken in the downtown (lower half) of Manhattan, most likely due to commuter use:
